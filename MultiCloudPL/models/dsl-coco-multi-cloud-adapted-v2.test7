@@ -1,0 +1,25 @@
+Attribute_Types {
+	SLA {
+		int defaultValue;
+	}
+	Scalability {
+		int defaultValue;
+	}
+}
+
+Features {
+	feature cl_authentication;
+	feature cl_signature;
+	feature cl_storage_object;
+	feature cl_aws_compute_ec2;
+}
+
+Solution_Constraints {
+	optimization CC1: maximize SLA;
+	optimization CC2: maximize Scalability;
+	selectionState CC3: cl_signature mandatory;
+	selectionState CC4: cl_storage_object mandatory;
+	selectionState CC5: cl_authentication mandatory;
+	selectionState CC6: cl_aws_compute_ec2 forbidden;
+}
+
