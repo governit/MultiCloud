@@ -1,0 +1,14 @@
+Long term trend report for PROD1_documentos
+Month ending,Jun 2016,Jul 2016,Aug 2016,Sep 2016,Oct 2016,Nov 2016,Dec 2016,Jan 2017,Feb 2017,Mar 2017,Apr 2017,May 2017
+"End user page views",-,-,-,-,-,-,-,-,-,-,-,-
+"End user load time sec",-,-,-,-,-,-,-,-,-,-,-,-
+"End user apdex",n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+"End user % satisfied",0,0,0,0,0,0,0,0,0,0,0,0
+"End user % tolerating",0,0,0,0,0,0,0,0,0,0,0,0
+"End user % frustrated",0,0,0,0,0,0,0,0,0,0,0,0
+"App server requests  (millions)",6.71,7.0,7.54,7.35,7.64,7.97,8.0,7.5,6.84,7.34,6.94,7.06
+"App server response time ms",575,588,920,572,516,504,438,740,367,486,321,589
+"App server apdex",0.9,0.9,0.91,0.9,0.9,0.92,0.92,0.92,0.93,0.93,0.93,0.92
+"App server % satisfied",86.2,86.6,87.4,86.6,87.2,89.3,89.3,89.8,90.5,90.5,90.2,90.1
+"App server % tolerating",7.1,6.7,6.5,6.5,6.4,5.0,4.9,4.5,5.3,5.0,5.3,3.7
+"App server % frustrated",6.6,6.7,6.1,6.9,6.5,5.7,5.8,5.7,4.2,4.5,4.5,6.2

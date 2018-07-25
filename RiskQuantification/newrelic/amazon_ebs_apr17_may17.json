@@ -1,0 +1,3816 @@
+{
+  "facets": [
+    {
+      "name": "vol-0846fb188918be6eb",
+      "total": {
+        "results": [
+          {
+            "average": 13.461334582620252
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 8620
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 13.657937488129884
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 12.802302356904983
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 14.131524916387535
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.620386848941584
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 14.413926390017005
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.830381088904216
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 12.95914568615846
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.292890088048718
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.179658373974592
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 13.111323973434082
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.965092610447527
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.875969440552089
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.529258381946637
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 13.107096207062442
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 11.25906374220632
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.984886670330752
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.28965677432708
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 12.97485440056769
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 14.206606835845049
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 14.123167475967351
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 12.15126967996917
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 12.456536216533234
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 14.238649775860154
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 12.280783089788041
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 13.696057105607501
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 14.915387757982216
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.963707509203308
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.171211635453584
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 13.726245750145608
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 13.91419472107196
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 284
+        }
+      ]
+    },
+    {
+      "name": "vol-09083925f90627f53",
+      "total": {
+        "results": [
+          {
+            "average": 9.358766850398656
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 8623
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 9.159822840574217
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.091836600965705
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 9.26579917551328
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.24500288804908
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.294700366734624
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.207841909772432
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.154709307911002
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 9.102773752798727
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 9.328496408550892
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.305354252719944
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.22904998913921
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.313509834058259
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.132484378018908
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 9.476712201486343
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 284
+        },
+        {
+          "results": [
+            {
+              "average": 9.405576600304407
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.390184159028157
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.326410547789882
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.298571945725326
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 291
+        },
+        {
+          "results": [
+            {
+              "average": 9.43898219622324
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.40076794744445
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 9.484093785307197
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.513327903553343
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.497083698018438
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.492150700933003
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.327282736330591
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 9.506041570963728
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.56831908953283
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.593674667001702
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.559379413703242
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 9.6574952753287
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 281
+        }
+      ]
+    },
+    {
+      "name": "vol-0473357ee30eefeca",
+      "total": {
+        "results": [
+          {
+            "average": 5.623761906079016
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 95
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 6.323321187780017
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 21
+        },
+        {
+          "results": [
+            {
+              "average": 5.42523832613684
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 74
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 0
+        }
+      ]
+    },
+    {
+      "name": "vol-2c1151d5",
+      "total": {
+        "results": [
+          {
+            "average": 3.8721702223570835
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 8631
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 0.00979027778218248
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.012917939925601887
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.013959027607698873
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.00901111114783109
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.008533449097336011
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.01034513878332493
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.007231481455366722
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.01249849536786011
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.010896064863522447
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.008673495328063533
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.009510069292244024
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.008117708366221955
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.009399074118037889
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.3060913248152954
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.13197315079418737
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.016452083535013016
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.01041400465571011
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.00903252308065324
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.008142708308595401
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.0070818287451604395
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.00766041666419268
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.01147569466067782
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.01313356572469268
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.009640393603654552
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.008723958422504237
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 20.420865499968688
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 29.356979570188724
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 30.03269033299552
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 30.34629571687925
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 286
+        },
+        {
+          "results": [
+            {
+              "average": 5.71702581096212
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 283
+        }
+      ]
+    },
+    {
+      "name": "vol-25d11f8b",
+      "total": {
+        "results": [
+          {
+            "average": 1.9383937660783213
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 8625
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 2.1161167708273876
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.8583984907817366
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.99430093826585
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.7336337939624273
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 2.0602318241180657
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 0.2711473388468701
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.2755571773009756
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.3137560152651355
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 4.579357889573468
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 4.086302802350158
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 6.168396659431399
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 5.35700439924301
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 4.8054721118153845
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 2.348649186842459
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 4.507251521110498
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.486210295960278
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.9717982710774069
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.26941192062383834
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5123046328574851
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.03402442057732616
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5859803217856678
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 5.443976399659706
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 1.0346788222081311
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.7867537382207632
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 281
+        },
+        {
+          "results": [
+            {
+              "average": 1.2575062451176489
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.08299919137176756
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.04009884180423898
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5707907025818637
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.3598084870606033
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.2246989396565326
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 282
+        }
+      ]
+    },
+    {
+      "name": "vol-081652d8317ff3bfb",
+      "total": {
+        "results": [
+          {
+            "average": 1.685326637361479
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 8634
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 0.9593502285715658
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.6734402782975748
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.9789133073451618
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.48584074173251995
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.6379847230532
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.45310393513581304
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5088115744357411
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5503944437380015
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.522591898221031
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.4832976835831586
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.3109031264048604
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.0308384267134696
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5207768507696326
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.6862700257010551
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.8362042841132885
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5120368056296785
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.6945765029166877
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 6.7658001328612345
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 17.09091595808665
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 4.37394425570186
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 0.435129628927421
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.532198141893625
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.4623942126895094
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5842465278789556
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.45686191908963436
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.7975952659552503
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.47862916685860707
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 3.7546961729595854
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 2.3266082388423515
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 0.6449406374765843
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 284
+        }
+      ]
+    },
+    {
+      "name": "vol-09a7222a0890ca500",
+      "total": {
+        "results": [
+          {
+            "average": 1.5889502322506341
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 578
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 7
+        },
+        {
+          "results": [
+            {
+              "average": 2.675610765998335
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5223934050648273
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 283
+        }
+      ]
+    },
+    {
+      "name": "vol-d7d11f79",
+      "total": {
+        "results": [
+          {
+            "average": 1.5589547969757924
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 8626
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 0.06614490737154534
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.15116504596647296
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.1703060182683329
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.957012201865618
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 1.5701526495991074
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.0952964119735624
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.3167726851452623
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.28271608748989113
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 2.770821984825438
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.1457520243230848
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 287
+        },
+        {
+          "results": [
+            {
+              "average": 5.589809814713653
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 3.871810533565382
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 3.3732601859370686
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 3.979056603463126
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 6.090949303359013
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 2.019776849051987
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.7464940978172258
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5721518478944113
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.7416145793280672
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.1970372688962622
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.36277384293175097
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 3.5081328570389587
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 1.1598127231240924
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 4.833774487501061
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 281
+        },
+        {
+          "results": [
+            {
+              "average": 0.6256346075662881
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.5371686329864992
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.47026979234904803
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.18721909752337573
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.3095255814821485
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 288
+        },
+        {
+          "results": [
+            {
+              "average": 0.11727349832103803
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 283
+        }
+      ]
+    },
+    {
+      "name": "vol-03832d1d58d4fbe62",
+      "total": {
+        "results": [
+          {
+            "average": 1.5334999561309814
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 1
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 1.5334999561309814
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 1
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 0
+        }
+      ]
+    },
+    {
+      "name": "vol-02438b402b619eea6",
+      "total": {
+        "results": [
+          {
+            "average": 1.4816666841506958
+          }
+        ],
+        "beginTimeSeconds": 0,
+        "endTimeSeconds": 0,
+        "inspectedCount": 1
+      },
+      "timeSeries": [
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492456567,
+          "endTimeSeconds": 1492542967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492542967,
+          "endTimeSeconds": 1492629367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492629367,
+          "endTimeSeconds": 1492715767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492715767,
+          "endTimeSeconds": 1492802167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492802167,
+          "endTimeSeconds": 1492888567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492888567,
+          "endTimeSeconds": 1492974967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1492974967,
+          "endTimeSeconds": 1493061367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 1.4816666841506958
+            }
+          ],
+          "beginTimeSeconds": 1493061367,
+          "endTimeSeconds": 1493147767,
+          "inspectedCount": 1
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493147767,
+          "endTimeSeconds": 1493234167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493234167,
+          "endTimeSeconds": 1493320567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493320567,
+          "endTimeSeconds": 1493406967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493406967,
+          "endTimeSeconds": 1493493367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493493367,
+          "endTimeSeconds": 1493579767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493579767,
+          "endTimeSeconds": 1493666167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493666167,
+          "endTimeSeconds": 1493752567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493752567,
+          "endTimeSeconds": 1493838967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493838967,
+          "endTimeSeconds": 1493925367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1493925367,
+          "endTimeSeconds": 1494011767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494011767,
+          "endTimeSeconds": 1494098167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494098167,
+          "endTimeSeconds": 1494184567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494184567,
+          "endTimeSeconds": 1494270967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494270967,
+          "endTimeSeconds": 1494357367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494357367,
+          "endTimeSeconds": 1494443767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494443767,
+          "endTimeSeconds": 1494530167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494530167,
+          "endTimeSeconds": 1494616567,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494616567,
+          "endTimeSeconds": 1494702967,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494702967,
+          "endTimeSeconds": 1494789367,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494789367,
+          "endTimeSeconds": 1494875767,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494875767,
+          "endTimeSeconds": 1494962167,
+          "inspectedCount": 0
+        },
+        {
+          "results": [
+            {
+              "average": 0
+            }
+          ],
+          "beginTimeSeconds": 1494962167,
+          "endTimeSeconds": 1495048567,
+          "inspectedCount": 0
+        }
+      ]
+    }
+  ],
+  "totalResult": {
+    "total": {
+      "results": [
+        {
+          "average": 0.05412471731576351
+        }
+      ],
+      "beginTimeSeconds": 0,
+      "endTimeSeconds": 0,
+      "inspectedCount": 10637555
+    },
+    "timeSeries": [
+      {
+        "results": [
+          {
+            "average": 0.05305850090891526
+          }
+        ],
+        "beginTimeSeconds": 1492456567,
+        "endTimeSeconds": 1492542967,
+        "inspectedCount": 324018
+      },
+      {
+        "results": [
+          {
+            "average": 0.05106242159048781
+          }
+        ],
+        "beginTimeSeconds": 1492542967,
+        "endTimeSeconds": 1492629367,
+        "inspectedCount": 324309
+      },
+      {
+        "results": [
+          {
+            "average": 0.05207574904819549
+          }
+        ],
+        "beginTimeSeconds": 1492629367,
+        "endTimeSeconds": 1492715767,
+        "inspectedCount": 337871
+      },
+      {
+        "results": [
+          {
+            "average": 0.05100035866509466
+          }
+        ],
+        "beginTimeSeconds": 1492715767,
+        "endTimeSeconds": 1492802167,
+        "inspectedCount": 324285
+      },
+      {
+        "results": [
+          {
+            "average": 0.052224561128913806
+          }
+        ],
+        "beginTimeSeconds": 1492802167,
+        "endTimeSeconds": 1492888567,
+        "inspectedCount": 334946
+      },
+      {
+        "results": [
+          {
+            "average": 0.04728735322603536
+          }
+        ],
+        "beginTimeSeconds": 1492888567,
+        "endTimeSeconds": 1492974967,
+        "inspectedCount": 336008
+      },
+      {
+        "results": [
+          {
+            "average": 0.0477071461020066
+          }
+        ],
+        "beginTimeSeconds": 1492974967,
+        "endTimeSeconds": 1493061367,
+        "inspectedCount": 337365
+      },
+      {
+        "results": [
+          {
+            "average": 0.04572899495348952
+          }
+        ],
+        "beginTimeSeconds": 1493061367,
+        "endTimeSeconds": 1493147767,
+        "inspectedCount": 374850
+      },
+      {
+        "results": [
+          {
+            "average": 0.04982901845312755
+          }
+        ],
+        "beginTimeSeconds": 1493147767,
+        "endTimeSeconds": 1493234167,
+        "inspectedCount": 375502
+      },
+      {
+        "results": [
+          {
+            "average": 0.04779158495744368
+          }
+        ],
+        "beginTimeSeconds": 1493234167,
+        "endTimeSeconds": 1493320567,
+        "inspectedCount": 371320
+      },
+      {
+        "results": [
+          {
+            "average": 0.06448059357179209
+          }
+        ],
+        "beginTimeSeconds": 1493320567,
+        "endTimeSeconds": 1493406967,
+        "inspectedCount": 373324
+      },
+      {
+        "results": [
+          {
+            "average": 0.051701226071941345
+          }
+        ],
+        "beginTimeSeconds": 1493406967,
+        "endTimeSeconds": 1493493367,
+        "inspectedCount": 371302
+      },
+      {
+        "results": [
+          {
+            "average": 0.05010248985559763
+          }
+        ],
+        "beginTimeSeconds": 1493493367,
+        "endTimeSeconds": 1493579767,
+        "inspectedCount": 371298
+      },
+      {
+        "results": [
+          {
+            "average": 0.05009083744240928
+          }
+        ],
+        "beginTimeSeconds": 1493579767,
+        "endTimeSeconds": 1493666167,
+        "inspectedCount": 371322
+      },
+      {
+        "results": [
+          {
+            "average": 0.051886888825201836
+          }
+        ],
+        "beginTimeSeconds": 1493666167,
+        "endTimeSeconds": 1493752567,
+        "inspectedCount": 369186
+      },
+      {
+        "results": [
+          {
+            "average": 0.04707716236208656
+          }
+        ],
+        "beginTimeSeconds": 1493752567,
+        "endTimeSeconds": 1493838967,
+        "inspectedCount": 371030
+      },
+      {
+        "results": [
+          {
+            "average": 0.04440632217169824
+          }
+        ],
+        "beginTimeSeconds": 1493838967,
+        "endTimeSeconds": 1493925367,
+        "inspectedCount": 371508
+      },
+      {
+        "results": [
+          {
+            "average": 0.05015391361401699
+          }
+        ],
+        "beginTimeSeconds": 1493925367,
+        "endTimeSeconds": 1494011767,
+        "inspectedCount": 374245
+      },
+      {
+        "results": [
+          {
+            "average": 0.05894916254135184
+          }
+        ],
+        "beginTimeSeconds": 1494011767,
+        "endTimeSeconds": 1494098167,
+        "inspectedCount": 368852
+      },
+      {
+        "results": [
+          {
+            "average": 0.04614213228414376
+          }
+        ],
+        "beginTimeSeconds": 1494098167,
+        "endTimeSeconds": 1494184567,
+        "inspectedCount": 368917
+      },
+      {
+        "results": [
+          {
+            "average": 0.04455188913250799
+          }
+        ],
+        "beginTimeSeconds": 1494184567,
+        "endTimeSeconds": 1494270967,
+        "inspectedCount": 367318
+      },
+      {
+        "results": [
+          {
+            "average": 0.05451712583505967
+          }
+        ],
+        "beginTimeSeconds": 1494270967,
+        "endTimeSeconds": 1494357367,
+        "inspectedCount": 367447
+      },
+      {
+        "results": [
+          {
+            "average": 0.04799268605250242
+          }
+        ],
+        "beginTimeSeconds": 1494357367,
+        "endTimeSeconds": 1494443767,
+        "inspectedCount": 361114
+      },
+      {
+        "results": [
+          {
+            "average": 0.052744135452955844
+          }
+        ],
+        "beginTimeSeconds": 1494443767,
+        "endTimeSeconds": 1494530167,
+        "inspectedCount": 339454
+      },
+      {
+        "results": [
+          {
+            "average": 0.05011500150370279
+          }
+        ],
+        "beginTimeSeconds": 1494530167,
+        "endTimeSeconds": 1494616567,
+        "inspectedCount": 341192
+      },
+      {
+        "results": [
+          {
+            "average": 0.06628574361280877
+          }
+        ],
+        "beginTimeSeconds": 1494616567,
+        "endTimeSeconds": 1494702967,
+        "inspectedCount": 342398
+      },
+      {
+        "results": [
+          {
+            "average": 0.08918896204991059
+          }
+        ],
+        "beginTimeSeconds": 1494702967,
+        "endTimeSeconds": 1494789367,
+        "inspectedCount": 342426
+      },
+      {
+        "results": [
+          {
+            "average": 0.07354232701716598
+          }
+        ],
+        "beginTimeSeconds": 1494789367,
+        "endTimeSeconds": 1494875767,
+        "inspectedCount": 342625
+      },
+      {
+        "results": [
+          {
+            "average": 0.07881551055384982
+          }
+        ],
+        "beginTimeSeconds": 1494875767,
+        "endTimeSeconds": 1494962167,
+        "inspectedCount": 343799
+      },
+      {
+        "results": [
+          {
+            "average": 0.05654037148938734
+          }
+        ],
+        "beginTimeSeconds": 1494962167,
+        "endTimeSeconds": 1495048567,
+        "inspectedCount": 338324
+      }
+    ]
+  },
+  "unknownGroup": {
+    "total": {
+      "results": [
+        {
+          "average": 0.028089281687492456
+        }
+      ],
+      "beginTimeSeconds": 0,
+      "endTimeSeconds": 0,
+      "inspectedCount": 10585121
+    },
+    "timeSeries": [
+      {
+        "results": [
+          {
+            "average": 0.02988050236535188
+          }
+        ],
+        "beginTimeSeconds": 1492456567,
+        "endTimeSeconds": 1492542967,
+        "inspectedCount": 322289
+      },
+      {
+        "results": [
+          {
+            "average": 0.03018451977142609
+          }
+        ],
+        "beginTimeSeconds": 1492542967,
+        "endTimeSeconds": 1492629367,
+        "inspectedCount": 322585
+      },
+      {
+        "results": [
+          {
+            "average": 0.029355510476078518
+          }
+        ],
+        "beginTimeSeconds": 1492629367,
+        "endTimeSeconds": 1492715767,
+        "inspectedCount": 336143
+      },
+      {
+        "results": [
+          {
+            "average": 0.028667259373533344
+          }
+        ],
+        "beginTimeSeconds": 1492715767,
+        "endTimeSeconds": 1492802167,
+        "inspectedCount": 322558
+      },
+      {
+        "results": [
+          {
+            "average": 0.028058628701666807
+          }
+        ],
+        "beginTimeSeconds": 1492802167,
+        "endTimeSeconds": 1492888567,
+        "inspectedCount": 333219
+      },
+      {
+        "results": [
+          {
+            "average": 0.026836669172447588
+          }
+        ],
+        "beginTimeSeconds": 1492888567,
+        "endTimeSeconds": 1492974967,
+        "inspectedCount": 334282
+      },
+      {
+        "results": [
+          {
+            "average": 0.027846256975821954
+          }
+        ],
+        "beginTimeSeconds": 1492974967,
+        "endTimeSeconds": 1493061367,
+        "inspectedCount": 335638
+      },
+      {
+        "results": [
+          {
+            "average": 0.026823178826044233
+          }
+        ],
+        "beginTimeSeconds": 1493061367,
+        "endTimeSeconds": 1493147767,
+        "inspectedCount": 373122
+      },
+      {
+        "results": [
+          {
+            "average": 0.02648740783122028
+          }
+        ],
+        "beginTimeSeconds": 1493147767,
+        "endTimeSeconds": 1493234167,
+        "inspectedCount": 373776
+      },
+      {
+        "results": [
+          {
+            "average": 0.025876179935203088
+          }
+        ],
+        "beginTimeSeconds": 1493234167,
+        "endTimeSeconds": 1493320567,
+        "inspectedCount": 369593
+      },
+      {
+        "results": [
+          {
+            "average": 0.03717919504810927
+          }
+        ],
+        "beginTimeSeconds": 1493320567,
+        "endTimeSeconds": 1493406967,
+        "inspectedCount": 371596
+      },
+      {
+        "results": [
+          {
+            "average": 0.025616810354134475
+          }
+        ],
+        "beginTimeSeconds": 1493406967,
+        "endTimeSeconds": 1493493367,
+        "inspectedCount": 369574
+      },
+      {
+        "results": [
+          {
+            "average": 0.025776692283630328
+          }
+        ],
+        "beginTimeSeconds": 1493493367,
+        "endTimeSeconds": 1493579767,
+        "inspectedCount": 369574
+      },
+      {
+        "results": [
+          {
+            "average": 0.026894619906357782
+          }
+        ],
+        "beginTimeSeconds": 1493579767,
+        "endTimeSeconds": 1493666167,
+        "inspectedCount": 369598
+      },
+      {
+        "results": [
+          {
+            "average": 0.026615567310458287
+          }
+        ],
+        "beginTimeSeconds": 1493666167,
+        "endTimeSeconds": 1493752567,
+        "inspectedCount": 367458
+      },
+      {
+        "results": [
+          {
+            "average": 0.025714333453561663
+          }
+        ],
+        "beginTimeSeconds": 1493752567,
+        "endTimeSeconds": 1493838967,
+        "inspectedCount": 369302
+      },
+      {
+        "results": [
+          {
+            "average": 0.024994596030238434
+          }
+        ],
+        "beginTimeSeconds": 1493838967,
+        "endTimeSeconds": 1493925367,
+        "inspectedCount": 369782
+      },
+      {
+        "results": [
+          {
+            "average": 0.026979861181509537
+          }
+        ],
+        "beginTimeSeconds": 1493925367,
+        "endTimeSeconds": 1494011767,
+        "inspectedCount": 372514
+      },
+      {
+        "results": [
+          {
+            "average": 0.025923705539882852
+          }
+        ],
+        "beginTimeSeconds": 1494011767,
+        "endTimeSeconds": 1494098167,
+        "inspectedCount": 367124
+      },
+      {
+        "results": [
+          {
+            "average": 0.024128620738807303
+          }
+        ],
+        "beginTimeSeconds": 1494098167,
+        "endTimeSeconds": 1494184567,
+        "inspectedCount": 367192
+      },
+      {
+        "results": [
+          {
+            "average": 0.02609315762749712
+          }
+        ],
+        "beginTimeSeconds": 1494184567,
+        "endTimeSeconds": 1494270967,
+        "inspectedCount": 365570
+      },
+      {
+        "results": [
+          {
+            "average": 0.028672667985100653
+          }
+        ],
+        "beginTimeSeconds": 1494270967,
+        "endTimeSeconds": 1494357367,
+        "inspectedCount": 365646
+      },
+      {
+        "results": [
+          {
+            "average": 0.02705088379143953
+          }
+        ],
+        "beginTimeSeconds": 1494357367,
+        "endTimeSeconds": 1494443767,
+        "inspectedCount": 359386
+      },
+      {
+        "results": [
+          {
+            "average": 0.028490502747846733
+          }
+        ],
+        "beginTimeSeconds": 1494443767,
+        "endTimeSeconds": 1494530167,
+        "inspectedCount": 337742
+      },
+      {
+        "results": [
+          {
+            "average": 0.02888994251825384
+          }
+        ],
+        "beginTimeSeconds": 1494530167,
+        "endTimeSeconds": 1494616567,
+        "inspectedCount": 339466
+      },
+      {
+        "results": [
+          {
+            "average": 0.026650501256327775
+          }
+        ],
+        "beginTimeSeconds": 1494616567,
+        "endTimeSeconds": 1494702967,
+        "inspectedCount": 340670
+      },
+      {
+        "results": [
+          {
+            "average": 0.044252835900161
+          }
+        ],
+        "beginTimeSeconds": 1494702967,
+        "endTimeSeconds": 1494789367,
+        "inspectedCount": 340700
+      },
+      {
+        "results": [
+          {
+            "average": 0.02555199821873771
+          }
+        ],
+        "beginTimeSeconds": 1494789367,
+        "endTimeSeconds": 1494875767,
+        "inspectedCount": 340892
+      },
+      {
+        "results": [
+          {
+            "average": 0.02863449395394664
+          }
+        ],
+        "beginTimeSeconds": 1494875767,
+        "endTimeSeconds": 1494962167,
+        "inspectedCount": 341786
+      },
+      {
+        "results": [
+          {
+            "average": 0.03012886217470754
+          }
+        ],
+        "beginTimeSeconds": 1494962167,
+        "endTimeSeconds": 1495048567,
+        "inspectedCount": 336344
+      }
+    ]
+  },
+  "metadata": {
+    "eventTypes": [
+      "BlockDeviceSample"
+    ],
+    "eventType": "BlockDeviceSample",
+    "openEnded": true,
+    "beginTime": "2017-04-17T19:16:07Z",
+    "endTime": "2017-05-17T19:16:07Z",
+    "beginTimeMillis": 1492456567739,
+    "endTimeMillis": 1495048567739,
+    "rawSince": "30 DAYS AGO",
+    "rawUntil": "`now`",
+    "rawCompareWith": "",
+    "guid": "ec2ba52d-491f-eb61-e286-2bd08ddb39dc",
+    "routerGuid": "9134a762-a93e-4f37-20e9-3419ace62317",
+    "messages": [],
+    "facet": "displayName",
+    "offset": 0,
+    "limit": 10,
+    "contents": {
+      "messages": [],
+      "timeSeries": {
+        "messages": [],
+        "contents": [
+          {
+            "function": "average",
+            "attribute": "provider.volumeQueueLength.Sum",
+            "simple": true
+          }
+        ]
+      },
+      "bucketSizeMillis": 86400000
+    }
+  }
+}

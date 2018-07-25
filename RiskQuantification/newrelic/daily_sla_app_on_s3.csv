@@ -1,0 +1,14 @@
+Long term trend report for PROD1_documentos
+Day ending,May. 1st 2017 (Mon),May. 2nd 2017 (Tue),May. 3rd 2017 (Wed),May. 4th 2017 (Thu),May. 5th 2017 (Fri),May. 6th 2017 (Sat),May. 7th 2017 (Sun),May. 8th 2017 (Mon),May. 9th 2017 (Tue),May. 10th 2017 (Wed),May. 11th 2017 (Thu),May. 12th 2017 (Fri)
+"End user page views",-,-,-,-,-,-,-,-,-,-,-,-
+"End user load time sec",-,-,-,-,-,-,-,-,-,-,-,-
+"End user apdex",n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+"End user % satisfied",0,0,0,0,0,0,0,0,0,0,0,0
+"End user % tolerating",0,0,0,0,0,0,0,0,0,0,0,0
+"End user % frustrated",0,0,0,0,0,0,0,0,0,0,0,0
+"App server requests  (thousands)",193,250,210,250,260,219,177,284,232,216,215,213
+"App server response time ms",437,2870,359,279,349,479,359,350,307,314,316,285
+"App server apdex",0.89,0.91,0.92,0.94,0.92,0.89,0.91,0.92,0.94,0.94,0.94,0.94
+"App server % satisfied",86.7,88.9,89.5,92.5,89.7,86.3,88.7,90.2,91.9,92.4,92.1,92.9
+"App server % tolerating",5.3,3.9,4.4,3.3,3.8,4.5,3.6,3.5,3.1,2.9,2.9,2.5
+"App server % frustrated",8.0,7.2,6.1,4.2,6.5,9.2,7.6,6.2,4.9,4.7,5.0,4.6

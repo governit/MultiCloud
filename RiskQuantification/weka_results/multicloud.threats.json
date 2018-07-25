@@ -1,0 +1,279 @@
+{ 
+    "_id" : ObjectId("590c11893b9c2463686ffdd8"), 
+    "name" : "Attack on virtualization", 
+    "id" : "cld_threat_attack-on-virtualization", 
+    "affected_attributes" : [
+        "cld_sv_availability", 
+        "cld_sv_accuracy", 
+        "cld_sv_auditability", 
+        "cld_sv_suitability", 
+        "cld_sv_service-response-time"
+    ], 
+    "affected_services" : [
+        "feature_cl_aws_compute_ec2", 
+        "feature_cl_aws_storage_s3"
+    ], 
+    "risk" : [
+        9.0, 
+        8.0, 
+        7.0, 
+        2.0, 
+        6.0, 
+        10.0, 
+        3.0, 
+        7.0, 
+        4.0, 
+        8.0, 
+        5.0, 
+        10.0, 
+        6.0, 
+        4.0, 
+        5.0
+    ], 
+    "impact" : [
+        9.0, 
+        8.0, 
+        8.0, 
+        7.0, 
+        10.0, 
+        10.0, 
+        8.0, 
+        8.0, 
+        9.0, 
+        10.0, 
+        10.0, 
+        10.0, 
+        9.0, 
+        5.0, 
+        10.0
+    ], 
+    "probability" : [
+        0.5, 
+        0.03976086206639117, 
+        0.03780805832522578, 
+        0.03747297601904248, 
+        0.03733527336359171, 
+        0.03726050106780702
+    ]
+},
+{ 
+    "_id" : ObjectId("5924f5d828ed750740de9420"), 
+    "name" : "Abuse and nefarious use of cloud computing", 
+    "id" : "cld_threat_cloud-abuse", 
+    "affected_attributes" : [
+        "cld_sv_auditability", 
+        "cld_sv_suitability"
+    ], 
+    "affected_services" : [
+        "feature_cl_aws", 
+        "feature_cl_aws_compute_ec2", 
+        "feature_cl_aws_storage_s3", 
+        "feature_cl_aws_authentication_cognito"
+    ], 
+    "risk" : [
+        1.0, 
+        0.5, 
+        0.6, 
+        0.7, 
+        0.7, 
+        0.5, 
+        0.8, 
+        0.8, 
+        0.7, 
+        0.5, 
+        0.4, 
+        1.0, 
+        0.9, 
+        0.8, 
+        0.8, 
+        0.5062634985584676
+    ], 
+    "impact" : [
+        1.0, 
+        0.4, 
+        0.8, 
+        0.7, 
+        0.7, 
+        0.5, 
+        0.5, 
+        0.9, 
+        0.8, 
+        0.9, 
+        0.4, 
+        1.0, 
+        1.0, 
+        0.8, 
+        0.8, 
+        0.8
+    ], 
+    "probability" : [
+        0.5, 
+        3.1641468659904226
+    ]
+}
+{ 
+    "_id" : ObjectId("5925011c28ed750740de9421"), 
+    "name" : "Denial of service attack", 
+    "id" : "cld_threat_denial-of-service", 
+    "affected_attributes" : [
+        "cld_sv_availability", 
+        "cld_sv_suitability", 
+        "cld_sv_auditability", 
+        "cld_sv_scalability"
+    ], 
+    "affected_services" : [
+        "feature_cl_aws", 
+        "feature_cl_aws_compute_ec2", 
+        "feature_cl_aws_storage_s3", 
+        "feature_cl_aws_authentication_cognito"
+    ], 
+    "risk" : [
+        10.0, 
+        6.0, 
+        7.0, 
+        3.0, 
+        7.0, 
+        7.0, 
+        6.0, 
+        8.0, 
+        6.0, 
+        8.0, 
+        8.0, 
+        10.0, 
+        8.0, 
+        8.0, 
+        8.0, 
+    ], 
+    "impact" : [
+        10.0, 
+        6.0, 
+        7.0, 
+        8.0, 
+        9.0, 
+        7.0, 
+        10.0, 
+        9.0, 
+        7.0, 
+        10.0, 
+        8.0, 
+        10.0, 
+        10.0, 
+        8.0, 
+        10.0, 
+    ], 
+    "probability" : [
+        0.5, 
+        0.030016668057775336, 
+        0.03998008020685846
+    ]
+},
+{ 
+    "_id" : ObjectId("592502e428ed750740de9422"), 
+    "name" : "Insecure interface and API", 
+    "id" : "cld_threat_insecure-interface-api", 
+    "affected_attributes" : [
+        "cld_sv_suitability", 
+        "cld_sv_auditability", 
+        "cld_sv_service-response-time", 
+        "cld_sv_accuracy", 
+        "cld_sv_installability"
+    ], 
+    "affected_services" : [
+        "feature_cl_aws", 
+        "feature_cl_aws_compute_ec2", 
+        "feature_cl_aws_storage_s3", 
+        "feature_cl_aws_authentication_cognito"
+    ], 
+    "risk" : [
+        9.0, 
+        8.0, 
+        5.0, 
+        4.0, 
+        7.0, 
+        6.0, 
+        5.0, 
+        6.0, 
+        2.0, 
+        8.0, 
+        4.0, 
+        10.0, 
+        6.0, 
+        7.0, 
+        5.0, 
+    ], 
+    "impact" : [
+        9.0, 
+        8.0, 
+        8.0, 
+        8.0, 
+        10.0, 
+        6.0, 
+        5.0, 
+        7.0, 
+        7.0, 
+        8.0, 
+        6.0, 
+        10.0, 
+        10.0, 
+        8.0, 
+        8.0
+    ], 
+    "probability" : [
+        0.5
+    ]
+},
+{ 
+    "name" : "Malicious insiders", 
+    "id" : "cld_threat_malicious-insiders", 
+    "affected_attributes" : [
+        "cld_sv_suitability", 
+        "cld_sv_auditability", 
+        "cld_sv_service-response-time", 
+        "cld_sv_accuracy", 
+        "cld_sv_installability"
+    ], 
+    "affected_services" : [
+        "feature_cl_aws", 
+        "feature_cl_aws_compute_ec2", 
+        "feature_cl_aws_storage_s3", 
+        "feature_cl_aws_authentication_cognito"
+    ], 
+    "risk" : [
+        10.0, 
+        8.0, 
+        4.0, 
+        2.0, 
+        5.0, 
+        9.0, 
+        5.0, 
+        4.0, 
+        6.0, 
+        9.0, 
+        9.0, 
+        10.0, 
+        8.0, 
+        9.0, 
+        7.0
+    ], 
+    "impact" : [
+        10.0, 
+        7.0, 
+        7.0, 
+        4.0, 
+        10.0, 
+        9.0, 
+        8.0, 
+        8.0, 
+        10.0, 
+        9.0, 
+        7.0, 
+        10.0, 
+        10.0, 
+        9.0, 
+        10.0
+    ], 
+    "probability" : [
+        0.5
+    ], 
+    "_id" : ObjectId("5925158528ed750740de9423")
+}
